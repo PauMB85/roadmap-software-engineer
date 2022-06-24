@@ -1,0 +1,24 @@
+{
+  "name": "rse",
+  "version": "1.0.0",
+  "description": "Roadmap Software Engineer",
+  "author": "PauMB",
+  "homepage": "https://github.com/PauMB85/roadmap-software-engineer#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauMB85/roadmap-software-engineer.git"
+  },
+  "keywords": [
+    "roadmap",
+    "software",
+    "engineer",
+    "software engineer"
+  ],
+  "license": "ISC",
+  "workspaces":[
+    "./packages/*"
+  ]
+}
